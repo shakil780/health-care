@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "HEART SURGERY",
+    "description": "Heart surgery can correct problems with the heart if other treatments haven't worked or can't be used. The most common type of heart surgery for adults is coronary artery bypass grafting (CABG). During CABG, a healthy artery or vein from the body is connected, or grafted, to a blocked coronary (heart) artery.",
+    "img": "https://i.ytimg.com/vi/eDmlWAaDxVg/maxresdefault.jpg"
+  },
+  {
+    "id": 2,
+    "name": "EMERGENCY CARE",
+    "description": "All around the world, acutely ill and injured people seek care every day.  Frontline providers manage children and adults with medical, surgical and obstetric emergencies, including injuries and infections, heart attacks and strokes, asthma and acute complications of pregnancy.  Prioritising an integrated approach to early recognition and resuscitation reduces the impact of all of these conditions.",
+    "img": "https://www.rubyhospital.com/images/facilities/emergency.jpg"
+  },
+  {
+    "id": 3,
+    "name": "DENTAL CARE",
+    "description": "Good dental or oral care is important to maintaining healthy teeth, gums and tongue. Oral problems, including bad breath, dry mouth, canker or cold sores, TMD, tooth decay, or thrush are all treatable with proper diagnosis and care.",
+    "img": "https://www.fortishealthcare.com/speciality_banner/mobile/Dental-Care.jpg"
+  },
+  {
+    "id": 4,
+    "name": "EYE CARE",
+    "description": "Your eyes are an important part of your health. Most people rely on their eyes to see and make sense of the world around them. But some eye diseases can lead to vision loss, so it is important to identify and treat eye diseases as early as possible.",
+    "img": "https://images.indianexpress.com/2021/08/GettyImages-eyesight-eye-care-1200.jpg"
+  },
+  {
+    "id": 5,
+    "name": "ALZHEIMER'S DISEASE",
+    "description": "Alzheimer's is the most common cause of dementia, a general term for memory loss and other cognitive abilities serious enough to interfere with daily life. Alzheimer's disease accounts for 60-80% of dementia cases.",
+    "img": "https://alzfdn.org/wp-content/uploads/2019/04/dreamstime_m_132829448-1024x683.jpg"
+  },
+  {
+    "id": 6,
+    "name": "BRAIN CANCER",
+    "description": "Brain cancer is a malignant growth of abnormal brain cells in the brain. Brain cancer can arise from many different types of brain cells (primary brain cancer) or occur when cancer cells from other parts of the body spread (metastasize) to the brain.",
+    "img": "https://www.kalpavrikshamtrust.com/imageuploads/covered/2019/07/13/brain-cancer.jpg"
+  }
+]
